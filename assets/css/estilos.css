@@ -25,6 +25,7 @@ body {
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+  
 }
 
 @media (max-width: 768px) {
@@ -38,14 +39,10 @@ body {
 
 }
 
-
 .tituloproyecto{
 
 text-align: center;
 padding-top: 25px;
-
-
-
 }
 
 .nav-link {
@@ -57,12 +54,10 @@ padding-top: 25px;
   justify-content: right;
 }
 
-
 .navbar {
   justify-content: center;
 }
 
 .contacto{
-
   justify-content: center;
 }
